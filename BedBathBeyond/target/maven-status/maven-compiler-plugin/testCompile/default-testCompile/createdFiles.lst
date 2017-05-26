@@ -1,0 +1,13 @@
+productsMenu\InProductsTxt.class
+SearchItems\FindStore.class
+SearchItems\SearchInMysql.class
+productsMenu\MouseHoverMenu.class
+SearchItems\SearchFromXLFile.class
+customerOrders\EndToEndOrder.class
+home\LogOut.class
+productsMenu\InProducts.class
+TestHomePage\TestGlobalMenu.class
+SearchItems\SearchFromDataProvider.class
+TestHomePage\LogInNLogOut.class
+home\LogIn.class
+SearchItems\FindProductByObjectdriver.class

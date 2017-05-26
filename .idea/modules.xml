@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BBC/BBC.iml" filepath="$PROJECT_DIR$/BBC/BBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BedBathBeyond/BedBathBeyond.iml" filepath="$PROJECT_DIR$/BedBathBeyond/BedBathBeyond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Icloud/Icloud.iml" filepath="$PROJECT_DIR$/Icloud/Icloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazon/amazon.iml" filepath="$PROJECT_DIR$/amazon/amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dhakaMetropolitan.iml" filepath="$PROJECT_DIR$/dhakaMetropolitan.iml" />
+    </modules>
+  </component>
+</project>

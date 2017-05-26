@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BedBathaBeyond" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="jhangir62_us"/>
+    <parameter name="accessKey" value= "21f426df-93de-41fe-88c5-595c867385e1"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="45"/>
+    <parameter name="url" value="http://www.bedbathandbeyond.com"/>
+
+    <test name ="BedBathaBeyond Home Page">
+        <classes>
+            <class name="SearchItems.FindStore"/>
+            <!--<class name="TestHomePage.LogInNLogOut"/>-->
+            <!--<class name="SearchItems.SearchFromDataProvider"/>-->
+            <!--<class name="SearchItems.SearchFromXLFile"/>-->
+            <!--<class name="SearchItems.SearchInMysql"/>-->
+        </classes>
+    </test>
+</suite>

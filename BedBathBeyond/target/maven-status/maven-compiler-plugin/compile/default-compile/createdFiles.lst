@@ -1,0 +1,14 @@
+ui\MenuBar\College.class
+ui\MenuBar\WeddingandGiftReg.class
+PageFactorySearch\DifferentSingInAndOut.class
+PageFactorySearch\PurchaseProducts.class
+PageFactorySearch\Products.class
+PageFactorySearch\MouseHover.class
+ui\MenuBar\ProductsMenu.class
+PageFactorySearch\FindStoreMethods.class
+PageFactorySearch\SearchObjects.class
+dataToSearch\ItemsToBeSearched.class
+ui\Homepage\UiHomepage.class
+PageFactorySearch\SigninAndLogout.class
+ui\MenuBar\TrendsandIdeas.class
+PageFactorySearch\SearchIteams.class

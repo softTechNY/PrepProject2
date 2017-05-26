@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestHomePage.TestGlobalMenu]">
+  <test name="Command line test" preserve-order="false">
+    <classes>
+      <class name="TestHomePage.TestGlobalMenu"/>
+    </classes>
+  </test> <!-- Command line test -->
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="TestHomePage.TestGlobalMenu">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="testProductsMenu"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestHomePage.TestGlobalMenu -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [TestHomePage.TestGlobalMenu] -->

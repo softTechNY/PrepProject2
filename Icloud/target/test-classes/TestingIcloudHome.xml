@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Icloud App running on firefox Browser">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="jhangir62_us"/>
+    <parameter name="accessKey" value= "21f426df-93de-41fe-88c5-595c867385e1"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="browserVersion" value="58"/>
+    <parameter name="url" value="http://www.icloud.com"/>
+    <test name ="icloud Home Page">
+        <classes>
+            <class name="IcloudHome.LogInAndLogOutFromAccount"/>
+        </classes>
+    </test>
+</suite>
